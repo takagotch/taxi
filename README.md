@@ -20,7 +20,7 @@ http://www.taxisite.jp/nakagawa/
 
 https://boo-nihonjou-taxi.ssl-lolipop.jp/
 
-
+http://daiho-taxi.co.jp/
 
 
 
