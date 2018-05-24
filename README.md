@@ -38,4 +38,12 @@ https://kyoto-taxi.or.jp/
 
 http://teisantaxi.co.jp/
 
+https://www.kyoto-taxi.com/
+
+
+
+
+
+
+
 
