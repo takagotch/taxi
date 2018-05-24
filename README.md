@@ -34,3 +34,4 @@ http://www.cabik.co.jp/
 
 https://job-gear.jp/kansaitaxi/index.htm
 
+https://kyoto-taxi.or.jp/
