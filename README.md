@@ -60,7 +60,7 @@ http://www.kamometaxi.com/
 ###
 http://www.kobe-kojintaxi.jp/
 ###
-
+https://www.shinkibus.co.jp/info/group/taxi/shinki.html
 ###
 
 ###
