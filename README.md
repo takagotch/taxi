@@ -48,7 +48,7 @@ https://www.kkg-osaka.jp/kkg-kobe/
 ###
 https://kobe-airport.com/
 ###
-
+http://www.fukuyu.jp/
 ###
 
 ###
