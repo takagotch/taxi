@@ -50,7 +50,7 @@ https://kobe-airport.com/
 ###
 http://www.fukuyu.jp/
 ###
-
+http://seishin-kotsu.jp/
 ###
 
 ###
