@@ -81,8 +81,10 @@ https://fivestar-taxi.com/
 https://fivestar-taxi.com/
 ###
 http://sumoto-kt.com/
-###
 
+
+###
+https://japantaxi.jp/partners/
 ###
 
 ###
