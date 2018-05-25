@@ -1,5 +1,5 @@
 
-###
+### os
 http://www.kkg-osaka.jp/
 ###
 http://nanko-marin.com/index.html
@@ -25,7 +25,7 @@ https://boo-nihonjou-taxi.ssl-lolipop.jp/
 http://daiho-taxi.co.jp/
 
 
-###
+### ky
 http://www.yasaka.jp/
 ###
 http://www.117385.com/
@@ -42,7 +42,7 @@ https://www.kyoto-taxi.com/
 
 
 
-###
+### kb
 https://www.kkg-osaka.jp/kkg-kobe/
 
 ###
