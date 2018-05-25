@@ -65,7 +65,7 @@ https://www.shinkibus.co.jp/info/group/taxi/shinki.html
 http://www.eonet.ne.jp/~hanshinkojintaxi/
 ###
 https://www.ako-shinki.com/
-
+###
 http://www1.odn.ne.jp/himetaku/index.html
 
 
