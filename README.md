@@ -98,7 +98,7 @@ http://www.yasaka.jp/group/taxi/shiga_yasaka.html
 ###
 http://www.ii7.jp/
 
-
+http://www.moriyamataxi.co.jp/
 
 
 
