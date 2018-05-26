@@ -82,6 +82,10 @@ https://fivestar-taxi.com/
 ###
 http://sumoto-kt.com/
 
+#
+nara
+###
+http://www.narakintaxi.co.jp/
 
 ###
 https://japantaxi.jp/partners/
