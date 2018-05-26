@@ -42,7 +42,7 @@ https://www.kyoto-taxi.com/
 
 
 
-### kb
+### kobe
 https://www.kkg-osaka.jp/kkg-kobe/
 
 ###
