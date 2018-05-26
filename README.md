@@ -90,8 +90,10 @@ http://www.narakintaxi.co.jp/
 ###
 http://www.ikomakotsu.com/
 
-###
 
+shiga
+###
+http://www.yasaka.jp/group/taxi/shiga_yasaka.html
 
 
 
